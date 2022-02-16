@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gilcenilson
 - 👀 I’m interested in Front End.
 - 🌱 I’m currently learning:
-<!----
+
 •	Git/GitHub – Basic
 •	Photoshop CS6
 HTML/CSS (Básico ao Avançado) – Intermediário (Complete)
@@ -23,7 +23,7 @@ Electron/Electron Gravador (studying)
 •	Curso Técnico em Informática (studying)
 Entidade: IFSUL DE MINAS  
 •	Inglês (Cursando) / Japonês Avançado (Complete) 
---->
+
 
 
 - 💞️ I’m looking to collaborate on your your company.
