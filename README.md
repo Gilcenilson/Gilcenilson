@@ -4,24 +4,24 @@
 
 •	Git/GitHub – Basic
 •	Photoshop CS6
-HTML/CSS (Básico ao Avançado) – Intermediário (Complete)
-JS – (Básico ao Avançado) – Intermediário (studying)
-FireBase (studying)
-JQuery (studying)
-BootStrap (studying)
-Firebase Storage (studying)
-Node.Js/Express/Integrado com Front e Back/EJS (studying)
-Mongo DB (studying)
-Login JWT (studying)
-HTTPS (studying)
-Socket (studying)
-React /JS /Redux/Router/React com Node/Todo (studying)
-Context API (studying)
-Redux (studying)
-Rotas Protegidas (studying)
-Electron/Electron Gravador (studying)
+• HTML/CSS (Básico ao Avançado) – Intermediário (Complete)
+• JS – (Básico ao Avançado) – Intermediário (studying)
+• FireBase (studying)
+• JQuery (studying)
+• BootStrap (studying)
+• Firebase Storage (studying)
+• Node.Js/Express/Integrado com Front e Back/EJS (studying)
+• Mongo DB (studying)
+• Login JWT (studying)
+• HTTPS (studying)
+• Socket (studying)
+• React /JS /Redux/Router/React com Node/Todo (studying)
+• Context API (studying)
+• Redux (studying)
+• Rotas Protegidas (studying)
+• Electron/Electron Gravador (studying)
 •	Curso Técnico em Informática (studying)
-Entidade: IFSUL DE MINAS  
+• Entidade: IFSUL DE MINAS  
 •	Inglês (Cursando) / Japonês Avançado (Complete) 
 
 
